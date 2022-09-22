@@ -34,7 +34,7 @@ body {
   /* border: solid 3px blanchedalmond; */
   position: absolute;
   bottom: 50px;
-  right: 50px;  
+  right: 50px;
 }
 
 .inquiry-form h3 {
@@ -65,13 +65,19 @@ body {
   border: 2px solid white;
   border-radius: 1rem;
   padding: 10px 20px;
-  font-size: 16px;
+  font-size: 20px;
+  width: 80%;
+  font-weight: bold;
 }
 
 .inquiry-form button:hover {
   color: #28bdd6;
   background-color: white;
   border: 2px solid #28bdd6;
+}
+
+.buttonholder {
+  text-align: center;
 }
 
 img {
